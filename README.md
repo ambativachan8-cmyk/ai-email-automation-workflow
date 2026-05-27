@@ -1,5 +1,10 @@
 # AI Email Automation Workflow
 
+**Portfolio:** [vachanambati.com](https://vachanambati.com)  
+**Featured AI Systems:** [AI News Intel and document intelligence portfolio](https://vachanambati.com/ai-systems)
+
+This module is part of my public AI systems portfolio. My broader work includes **AI News Intel**, an agentic RAG intelligence system that converts messy source material into evidence-backed answers, structured summaries, and decision-ready insights. The live portfolio explains the system positioning without exposing private code, credentials, datasets, or security-sensitive infrastructure details.
+
 This module documents a sanitized AI-assisted email automation workflow for professional communication. It is designed as a portfolio-ready companion module for recruiter replies, interview follow-ups, assignment submission emails, status-check emails, and other high-stakes professional drafts.
 
 The workflow uses AI to generate context-aware email drafts, while keeping final sending human-reviewed by default.
@@ -13,6 +18,19 @@ The workflow uses AI to generate context-aware email drafts, while keeping final
 - Sends the draft to a human reviewer for approval or edits.
 - Optionally sends the approved email through Gmail or another email provider.
 - Logs the workflow outcome for traceability.
+
+## Why This Connects To My AI Systems Work
+
+This workflow demonstrates the same production-minded pattern used across my AI portfolio:
+
+- capture real-world context,
+- classify intent,
+- generate structured AI output,
+- keep sensitive actions behind human approval,
+- log decisions for traceability,
+- avoid exposing credentials or private data.
+
+The same design pattern can support recruiter communication, client follow-ups, business operations, trade workflows, internal support queues, document review pipelines, and intelligent operational dashboards.
 
 ## Problem It Solves
 
@@ -73,6 +91,7 @@ See `config/.env.example` for safe placeholder names.
 - Credentials configured only inside n8n or environment variables.
 - Sanitized workflow exports for public GitHub.
 - Least-privilege email/API permissions.
+- Public documentation only; private credentials, real account details, production infrastructure, and sensitive workflow configuration are not exposed.
 
 ## Future Improvements
 
@@ -81,3 +100,7 @@ See `config/.env.example` for safe placeholder names.
 - Add CRM or spreadsheet logging for job-search tracking.
 - Add draft quality checks for tone, specificity, and missing context.
 - Add confidence thresholds before showing a send option.
+
+## More From My Portfolio
+
+See the full AI systems portfolio at [vachanambati.com](https://vachanambati.com), including my AI News Intel case study and live portfolio experience.
