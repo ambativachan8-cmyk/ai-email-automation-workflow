@@ -1,11 +1,11 @@
 # AI Email Automation Workflow
 
 **Portfolio:** [vachanambati.com](https://vachanambati.com)  
-**Featured AI Systems:** [AI News Intel and document intelligence portfolio](https://vachanambati.com/ai-systems)
+**AI Systems:** [AI News Intel and document intelligence portfolio](https://vachanambati.com/ai-systems)
 
-This module is part of my public AI systems portfolio. My broader work includes **AI News Intel**, an agentic RAG intelligence system that converts messy source material into evidence-backed answers, structured summaries, and decision-ready insights. The live portfolio explains the system positioning without exposing private code, credentials, datasets, or security-sensitive infrastructure details.
+This repository documents a sanitized human-in-the-loop AI workflow for professional email drafting, review gates, safe automation, and traceability. It is part of my public AI systems portfolio alongside **AI News Intel**, an agentic RAG/document intelligence system that converts messy source material into evidence-backed answers, structured summaries, and decision-ready insights.
 
-This module documents a sanitized AI-assisted email automation workflow for professional communication. It is designed as a portfolio-ready companion module for recruiter replies, interview follow-ups, assignment submission emails, status-check emails, and other high-stakes professional drafts.
+The public workflow explains the architecture without exposing private code, credentials, personal inbox data, account details, or security-sensitive infrastructure.
 
 The workflow uses AI to generate context-aware email drafts, while keeping final sending human-reviewed by default.
 
